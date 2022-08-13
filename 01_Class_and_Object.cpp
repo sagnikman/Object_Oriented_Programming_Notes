@@ -15,7 +15,7 @@ class Rectangle {
 
 int main() {
     Rectangle Obj1,Obj2;
-    cout<<Obj1.area(5,10)<<'\n';
+    cout<<Obj1.area(5,12)<<'\n';
     cout<<Obj2.area(3,4);
 
 }
